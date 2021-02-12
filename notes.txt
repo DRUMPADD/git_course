@@ -1,0 +1,24 @@
+What is Git?
+Version Control System (VCS) for tracking changes in computers files.
+
+Distributed version control
+Coordinates work between multiple developers 
+Who made what changes and when 
+Revert back any time
+Local and remote repos
+
+
+Concepts of Git
+Keeps track of code history
+Takes "snapshots" of your files 
+You decide when to make  snapshots by making a commit
+
+
+Basic commands
+git init
+git add <file>
+git status
+git commit
+git push
+git pull
+git clone
